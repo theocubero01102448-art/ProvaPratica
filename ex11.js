@@ -1,4 +1,4 @@
-//verifique se um número 
+//verifique se um número é divisível por 3
 let num = 6;
 
 if (num % 3 === 0) {
